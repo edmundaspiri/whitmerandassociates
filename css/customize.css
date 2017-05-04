@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Inknut+Antiqua');
+
+.v{
+  font-family: 'Inkut Antiqua', serif;
+}
+
+.img-right{
+  float: right;
+}
+
+.header-bottom{
+  margin-top: 120;
+}
+
+.btm {
+  position: absolute;
+  bottom: 0;
+}
+
+.topnav {
+  background-color:#1C263B;
+  color:white;
+}
+
+.tophd {
+  color: white;
+  background-image: url(../assets/img/bgheader.png);
+  background-size: cover;
+  margin-bottom: 0px;
+}
+
+/*
+.topcard {
+  background-image: linear-gradient(0deg, #A6968F 0%, #131728 39%);
+  color: white;
+}
+*/
+
+.profilephoto {
+  width: 80%;
+  border-radius: 5px;
+}
+
+.logo {
+  width: 110px;
+  margin-top: 5px;
+}
+
+#profilephotosm {
+  width: 50%;
+}
+
+.card-img-set {
+  background-size: contain;
+  height:250px;
+  }
+
+.trusted {
+  color: white;
+  background-image: url(../assets/img/bgheader2.png);
+  background-size: cover;
+  margin-bottom: 0px;
+}
+
+.card-border {
+  margin:5px;
+}
+
+.btn-new {
+  background: #CFB745;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+  color: white;
+}
+
+/* Rectangle 3: */
+background: #CFB745;
+box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+border-radius: 5px;

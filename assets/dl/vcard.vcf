@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:2.1
+N:name;Scott
+FN:Whitmer
+ORG:Whitmer & Associates Inc.
+TITLE:Forensics Evaluation Expert
+TEL;WORK;VOICE:1-855-255-3266
+TEL;HOME;VOICE:509-248-3266
+TEL;WORK;FAX:509-248-3604
+ADR;WORK:;Company name;Street address;City;State;Zip;Country
+URL;WORK:http://www.whitmerandassociates.com
+EMAIL;INTERNET:Scott@whitmerandassociates.com
+END:VCARD
