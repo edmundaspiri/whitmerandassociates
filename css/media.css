@@ -1,0 +1,22 @@
+/*Medium*/
+@media screen and (max-width: 991px) {
+.profilephotosm{
+  align-content: center;
+}
+
+.card-sm{
+  height: 10rem;
+}
+
+@media screen and (max-width: 768px) {
+.profilephotosm{
+  align-content: center;
+}
+
+.card-sm{
+  height: 16rem;
+}
+
+.card-spacing{
+  margin-top: 1rem;
+}
