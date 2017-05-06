@@ -13,6 +13,9 @@
   align-content: center;
 }
 
+.tophd{
+  center: 80%;
+}
 .card-sm{
   height: 14rem;
 }
